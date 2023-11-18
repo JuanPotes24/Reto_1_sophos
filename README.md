@@ -7,19 +7,19 @@ Consiste en un proceso de alquiler de una tienda de video juegos, donde la manej
  
 Este proyecto debe cumplir con los siguientes requerimientos:
  
-Almacenar la información básica de los clientes para poder conocer quien tiene alquilado un juego y que el dueño de la tienda pueda reclamarlo cuando se venza el periodo de alquiler
-• Poder definir el precio de los alquileres que cambian periódicamente por título de
+- Almacenar la información básica de los clientes para poder conocer quien tiene alquilado un juego y que el dueño de la tienda pueda reclamarlo cuando se venza el periodo de alquiler
+- Poder definir el precio de los alquileres que cambian periódicamente por título de
 juego
-• Poder conocer el cliente más frecuente
-• Poder conocer el título de juego más rentado
-• Permitir registrar todos los alquileres hechos y generar prueba de compra
-• Poder consultar las ventas del día
-• Poder consultar listado de juegos por:
-o director de Juego
-o protagonistas del juego
-o productor y/o marca del juego
-o fecha de lanzamiento
-• Tener registrado de cada juego, nombre, año, protagonistas, director, productor y
+- Poder conocer el cliente más frecuente
+- Poder conocer el título de juego más rentado
+- Permitir registrar todos los alquileres hechos y generar prueba de compra
+- Poder consultar las ventas del día
+- Poder consultar listado de juegos por:
+- director de Juego
+- protagonistas del juego
+- productor y/o marca del juego
+- fecha de lanzamiento
+- Tener registrado de cada juego, nombre, año, protagonistas, director, productor y
 plataforma (Xbox, PlayStation, Nintendo, PC,)
 
  
